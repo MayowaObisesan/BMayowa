@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Prospective Languages for the Tech. Future. ...
 - 📫 How to reach me
 Gmail: mayowaobi74@gmail.com
-Linkedin: https://www.linkedin.com/in/mayowa-obisesan-478682238
+Linkedin: https://www.linkedin.com/in/mayowa-obisesan
+twitter: https://www.twitter.com/blessed_mayowa
 
 <!---
 BMayowa/BMayowa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
