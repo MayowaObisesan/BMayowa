@@ -7,7 +7,9 @@ Gmail: mayowaobi74@gmail.com
 Linkedin: https://www.linkedin.com/in/mayowa-obisesan
 twitter: https://www.twitter.com/blessed_mayowa
 
-[![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
+[![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)]
+
+<!-- (https://github.com/acekyd/made-in-nigeria) -->
 
 
 <!---
