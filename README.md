@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @BMayowa
-- 👀 I’m interested in Advancements in Technology using the most Resourceful and Scalable Programming Languages to create Ubiquitous and Scalable Softwares and Services ...
-- 🌱 I’m currently learning Rust Programming Language ...
-- 💞️ I’m looking to collaborate on Prospective Languages for the Tech. Future. ...
-- 📫 How to reach me
-Gmail: mayowaobi74@gmail.com
-Linkedin: https://www.linkedin.com/in/mayowa-obisesan
-twitter: https://www.twitter.com/blessed_mayowa
+## 👋 Hi, I’m @BMayowa
+- Full name: **Mayowa Obisesan**.
+- About me: **Programmer, Tech. Enthusiast, Scientist, Periodic Artist.**
+- Hobbies: **Sci-fi, Learning, Smiling.**
+- For Fun: **Games, Sports, Movies, Music.**
+
+
+[//]: # (- 👀 I’m interested in Advancements in Technology using the most Resourceful and Scalable Programming Languages to create Ubiquitous and Scalable Softwares and Services ...)
+[//]: # (- 🌱 I’m currently learning Rust Programming Language ...)
+[//]: # (- 💞️ I’m looking to collaborate on Prospective Languages for the Tech. Future. ...)
+
+## 📫 How to reach me
+- Gmail: mayowaobi74@gmail.com
+- Outlook: mayowaobi74@outlook.com
+- Linkedin: https://www.linkedin.com/in/mayowa-obisesan
+- twitter: https://www.twitter.com/blessed_mayowa
 
 ![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)
 
