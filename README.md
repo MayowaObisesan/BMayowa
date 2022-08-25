@@ -16,7 +16,7 @@
 - twitter: https://www.twitter.com/blessed_mayowa
 
 ![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat)
-![Proudly Nigeria](https://img.shields.io/badge/Proudly-Nigerian-008751.svg?style=flat&labelColor=FFFFFF&link=https://right/google.com/?q="Nigeria")
+![Proudly Nigeria](https://img.shields.io/badge/Proudly-Nigerian-008751.svg?style=flat&labelColor=FFFFFF&link=https://google.com/?q="Nigeria")
 <!-- <img alt="Proudly Nigeria" height="32px" src="https://img.shields.io/badge/proudly-Nigerian-008751.svg?style=flat&labelColor=FBFBFB" title="Proudly Nigerian Image" width="auto"/> -->
 
 <!-- (https://github.com/acekyd/made-in-nigeria) -->
