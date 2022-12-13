@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @BMayowa
 - Full name: **Mayowa Obisesan**.
 - About me: **Programmer, Tech. Enthusiast, Scientist, Periodic Artist.**
-- Hobbies: **Sci-fi, Learning, Smiling, Tinkering**
+- Hobbies: **Sci-fi, Learning, Tinkering**
 - For Fun: **Games, Sports, Movies, Music.**
 
 
