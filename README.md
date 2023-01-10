@@ -10,10 +10,11 @@
 [//]: # (- 💞️ I’m looking to collaborate on Prospective Languages for the Tech. Future. ...)
 
 ## 📫 How to reach me
-- Gmail: mayowaobi74@gmail.com
+- Portfolio: [Mayowa's Page](https://bmayowa.github.io)
+- Gmail: <a href="mailto:mayowaobi74@gmail.com">mayowaobi74@gmail.com</a>
 - Outlook: mayowaobi74@outlook.com
-- Linkedin: https://www.linkedin.com/in/mayowa-obisesan
-- twitter: https://www.twitter.com/blessed_mayowa
+- Linkedin: [Mayowa-obisesan](https://www.linkedin.com/in/mayowa-obisesan)
+- twitter: [Blessed_mayowa](https://www.twitter.com/blessed_mayowa)
 
 ![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat)
 ![Proudly Nigeria](https://img.shields.io/badge/Proudly-Nigerian-008751.svg?style=flat&labelColor=FFFFFF&link=https://google.com/?q="Nigeria")
